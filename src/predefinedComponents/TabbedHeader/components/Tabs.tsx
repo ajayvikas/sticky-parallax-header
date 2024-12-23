@@ -246,7 +246,7 @@ const styles = StyleSheet.create({
   container: {
     alignItems: 'center',
     alignSelf: 'stretch',
-    paddingHorizontal: 20,
+    paddingHorizontal: 14,
   },
   contentContainer: {
     alignItems: 'center',
